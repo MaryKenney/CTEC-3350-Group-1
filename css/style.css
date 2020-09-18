@@ -10,7 +10,7 @@
     color: black;
     padding: 30px;
     padding-top: 5px;
-    overflow: visible scroll;
+    overflow: visible;
 }
 
 main{
