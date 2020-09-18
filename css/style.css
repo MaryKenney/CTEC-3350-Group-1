@@ -1,9 +1,14 @@
 /* This is the CSS file for the SWOT Analysis */
 
-body {
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
     background-color: #f5f5f5;
-    padding-left: 7rem;
-    padding-right: 7rem;
+    padding: 30px;
+    padding-top: 5px;
+    overflow: visible scroll;
 }
 
 h1 {
@@ -34,4 +39,11 @@ table caption{
 table th {
     background-color: #d3d3d3;
     color: black;
+}
+
+footer {
+    background-color: #d3d3d3;
+    font-size: .70em;
+    text-align: center;
+    padding: 20px;
 }
