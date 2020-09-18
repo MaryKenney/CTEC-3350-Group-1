@@ -11,6 +11,10 @@ body {
 
 }
 
+main{
+    padding-bottom: 2rem;
+}
+
 h1 {
     color: #000066;
     font-size: 65px;
