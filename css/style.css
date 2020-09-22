@@ -17,6 +17,10 @@ main{
     padding-bottom: 2rem;
 }
 
+li {
+    padding-bottom: .5rem;
+}
+
 h1 {
     color: #000066;
     font-size: 65px;
