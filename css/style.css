@@ -13,12 +13,14 @@
     overflow: visible;
 }
 
+
 main{
     padding-bottom: 2rem;
 }
 
 li {
     padding: .25rem;
+    width: 50%;
 }
 
 h1 {
